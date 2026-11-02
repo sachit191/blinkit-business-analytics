@@ -4,7 +4,7 @@ An interactive business analytics project built with Python, Streamlit, Pandas, 
 
 ## Live Dashboard
 
-[Open the interactive dashboard](https://sachit191-blinkit-business-analytics-app-e6pfffp.streamlit.app/)
+[Open the interactive dashboard](https://sachit191-blinkit-business-analytics-app-e6pffp.streamlit.app/#blinkit-business-analytics)
 
 ## Project Objectives
 
